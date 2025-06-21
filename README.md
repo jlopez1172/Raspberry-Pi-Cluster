@@ -1,6 +1,6 @@
 🌐 Raspberry Pi Cluster: Build Your Own Mini Supercomputer
 
-This project is based on the official Raspberry Pi Cluster Tutorial. It documents the setup of a Raspberry Pi cluster used for experimenting with distributed computing, centralized file systems, and network booting. It uses Power over Ethernet (PoE) to streamline power and connectivity.
+This project is based on the official Raspberry Pi Cluster Tutorial. It documents the setup of a Raspberry Pi cluster used for experimenting with distributed computing, centralized file systems, and network booting. It uses Power over Ethernet (PoE) to streamline power and connectivity. Video captured the fully assembled cluster. Unfortunately, the file is too large to upload to the repository.
 
 🧠 Project Goals
 Build a functional and modular Raspberry Pi cluster
